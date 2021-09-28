@@ -10,3 +10,4 @@ Links for questions:
 <li> <a href = "https://practice.geeksforgeeks.org/problems/roman-number-to-integer3201/1"> Roman Number to Integer  </a>  <br> </li>
 <li> <a href = "https://practice.geeksforgeeks.org/problems/isomorphic-strings-1587115620/1"> Isomorphic Strings </a>  <br> </li>
 <li> <a href = "https://practice.geeksforgeeks.org/problems/print-anagrams-together/1"> Print Anagrams Together </a>  <br> </li>
+<li> <a href = "https://practice.geeksforgeeks.org/problems/decode-the-pattern1138/1"> Look and Say Pattern </a>  <br> </li>
